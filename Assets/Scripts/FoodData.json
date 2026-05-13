@@ -1,0 +1,7 @@
+{
+  "Nasi Goreng": {
+    "ingredients": ["rice", "egg", "soy sauce"],
+    "allergens": ["egg"],
+    "calories": 320
+  }
+}
